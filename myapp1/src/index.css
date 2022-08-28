@@ -1,0 +1,56 @@
+
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: black;
+  padding-left: 500px;
+  
+}
+
+img {
+  padding-top: 20px;
+}
+
+.two {
+  color: white;
+}
+
+.four {
+ background-color: aquamarine;
+ margin-right: 5px;
+ 
+}
+
+.three {
+  
+}
+
+.five {
+  background-color: aquamarine;
+ 
+}
+
+.width {
+  max-width: 300px;
+  /* margin: auto; */
+  color: white;
+  /* border: 3px solid; */
+}
+
+h3 {
+  color: darkorange;
+}
+
+b {
+  font-style: italic;
+}
+
+.ten{
+  color: antiquewhite;
+  margin-right: 20px;
+}
+
+/* .foot {
+  background-color: grey;
+} */

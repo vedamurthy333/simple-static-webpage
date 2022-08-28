@@ -1,0 +1,74 @@
+.one {
+  display: flex;
+  align-items: center;
+  background-color: black;
+  height: 90px;
+  padding: 30px 25px;
+
+ 
+}
+
+body {
+  background-color: darkslategray;
+  /* background-image: url("veda12.jpg"); */
+}
+
+.four {
+  padding-left: 30px;
+  padding-top: 2px;
+  background-color: darkslategray;
+  color: white;
+  font-weight: 600;
+  padding: 57px 27px;
+  /* background-image: url("veda12.jpg");
+  background-repeat: no-repeat;
+  background-position: bottom; */
+  
+}
+
+.img {
+  height: 70px;
+  padding-right: 10px;
+}
+
+.h1 {
+  margin: 0%;
+}
+
+
+nav > h3,nav > h4{
+  margin: 0%;
+}
+
+nav > h3 {
+margin-right: auto;
+color: aqua;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 700;
+}
+
+nav > h4{
+  color: white;
+  font-weight: 600;
+  padding-right: 700px;
+  font-size: 30px;
+}
+
+.ul {
+  margin-top: 46px;
+}
+
+ul > li{
+ line-height: 20px;
+ padding-block: 10px;
+ font-size: 20px;
+}
+
+.ul > li ::after{
+  font-size: 1.4rem;
+  color: aqua;
+}
+
+.tree{
+  color: darkgoldenrod;
+}
